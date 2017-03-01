@@ -127,7 +127,7 @@ This step is implemented in *lane_finder.py*, in *draw_lane_overlay()* method at
 
 ####1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](result_video_2.mp4)
 
 ---
 
